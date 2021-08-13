@@ -1036,9 +1036,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1052,10 +1052,10 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = mh_dylib;
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMaps.framework/Modules/module.modulemap;
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMaps;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMaps;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1068,9 +1068,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1083,9 +1083,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMapsBase.framework/Modules/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMapsBase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMapsBase;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1098,9 +1098,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1113,9 +1113,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMapsCore.framework/Modules/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMapsCore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMapsCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1306,9 +1306,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1321,10 +1321,10 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = mh_dylib;
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMaps.framework/Modules/module.modulemap;
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMaps;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMaps;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1337,9 +1337,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1352,10 +1352,10 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = mh_dylib;
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMaps.framework/Modules/module.modulemap;
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMaps;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMaps;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1368,9 +1368,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1382,9 +1382,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMapsBase.framework/Modules/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMapsBase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMapsBase;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1397,9 +1397,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1411,9 +1411,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMapsBase.framework/Modules/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMapsBase;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMapsBase;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1426,9 +1426,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1440,9 +1440,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMapsCore.framework/Modules/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMapsCore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMapsCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
@@ -1455,9 +1455,9 @@
 			buildSettings = {
 				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 050000;
+				CURRENT_PROJECT_VERSION = 050100;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 5PL9B9HNUS;
+				DEVELOPMENT_TEAM = 9K78B7AHC7;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -1469,9 +1469,9 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MARKETING_VERSION = 5.0.0;
+				MARKETING_VERSION = 5.1.0;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMapsCore.framework/Modules/module.modulemap;
-				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMapsCore;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tklabs.adt.GoogleMapsCore;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SUPPORTS_MACCATALYST = NO;
